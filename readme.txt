@@ -1,0 +1,1 @@
+A nasty bit of code I ran into.  This code used some obscure perl features to create some intimidating looking obfuscation.  Simple enough to unravel it, though - and fun too!
